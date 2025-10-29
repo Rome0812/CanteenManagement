@@ -1,0 +1,9 @@
+kwan,09230193028,12:22:PMTotal: 35
+Hotdog,1,20
+rice,1,15
+_
+saint lukes,09302901930,12:22:PMTotal: 80
+Spam,1,25
+Chicken_Sausage,1,40
+rice,1,15
+_

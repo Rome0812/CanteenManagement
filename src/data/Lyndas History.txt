@@ -1,0 +1,12 @@
+
+Sinigang_na_Baboy,1,65
+Menudo,1,65
+Pork_Steak,1,65
+Ginataang_Manok,1,60
+Adobong_Pusit,1,65
+Kare-kare,1,70
+Caldereta,1,70
+Sisig,1,65
+MountainDew,1,25
+Coke,1,25
+rice,1,1
